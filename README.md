@@ -1,4 +1,4 @@
-hni-decorlab
+byoga
 ============
 
-git repo for decorLAB application which was developed for The New Institute in Rotterdam, The Netherlands. 
+git repo for byoga project containing dominantly - if not only - issues
